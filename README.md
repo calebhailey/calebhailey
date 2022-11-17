@@ -12,5 +12,5 @@ I love participating in open source communities and helping people solve interes
 I'm currently taking a semi-sabbatical and contemplating my next startup. 
 
 * [Blog](https://sheesh.blog)
-* [Mastodon](https://team.herd.works/@caleb)
+* <a href="https://team.herd.works/@caleb" rel="me">Mastodon</a>
 * [Twitter](https://twitter.com/calebhailey)
